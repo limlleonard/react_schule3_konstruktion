@@ -53,14 +53,6 @@
   display: flex;
   gap: 0.5em;
 }
-button {
-  font-size: 1em;
-  border-radius: 0.5em;
-  height: 2em;
-  width: 100%;
-  background-color: #aaa;
-  align-self: center;
-}
 .ctn-l p {
   text-align: left;
 }
@@ -82,17 +74,4 @@ button {
 canvas {
   width: 100%;
   height: 100%;
-}
-.circle {
-  width: var(--diameter);
-  height: var(--diameter);
-  position: absolute;
-  background-color: lightgray;
-  border-radius: 50%;
-}
-.food {
-  background-color: green;
-}
-.head {
-  background-color: blue;
 }
