@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Kegelschnitt Konstruktion
+## Description
+[Link to the webapp](https://react-schule3-konstruktion.onrender.com/)
+This project comes from an old project, while I still worked as a teacher in the school. In a pratice, the students should construct conic section (ellipse, hyperbola and parabola) with ruler and compass. The project shows the step by step instruction. At that time, I wrote the project in Pygame. Since I learned React, it is nice to update the project and make it easier to be accessed.

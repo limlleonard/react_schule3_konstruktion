@@ -82,6 +82,7 @@ const Control: React.FC<ControlProps> = ({ onModeChange, onStepChange, onReset }
       </div>
       <p>Anweisung:</p>
       <p id="anweisung">{anweisung}</p>
+      <a href="https://github.com/limlleonard/react_schule3_konstruktion" target="_blank">Link to source code</a> 
     </div>
   );
 };
